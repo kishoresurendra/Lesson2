@@ -9,6 +9,7 @@ public class MainClass {
             System.out.println(lev);
         }
         System.out.println(LoggingLevel.valueOf("COMPLETED"));
+        System.out.println("Test");
     }
 
 }
